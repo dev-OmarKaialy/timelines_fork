@@ -6,7 +6,7 @@ This example shows a simple timeline that has text contents alternating:
 
 ``` dart
 import 'package:flutter/material.dart';
-import 'package:timelines/timelines.dart';
+import 'package:timelines_fork/timelines.dart';
 
 void main() {
   runApp(MyApp());

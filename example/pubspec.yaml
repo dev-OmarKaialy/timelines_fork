@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  timelines:
+  timelines_fork:
     path: ../
 
 

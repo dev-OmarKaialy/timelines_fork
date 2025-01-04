@@ -1,7 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:timelines/timelines.dart';
+import 'package:timelines_fork/timelines.dart';
 
 import 'component_page.dart';
 import 'showcase/package_delivery_tracking.dart';
