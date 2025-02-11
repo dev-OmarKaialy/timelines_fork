@@ -1,5 +1,5 @@
 name: timelines_fork
-version: 0.1.1
+version: 0.1.2
 description: A powerful & easy to use timeline package for Flutter. All UI components in this package are separate widgets.
 homepage: https://chulwoo.dev
 repository: https://github.com/chulwoo-park/timelines/
